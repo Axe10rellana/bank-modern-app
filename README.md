@@ -2,21 +2,30 @@
 
 ## Descripción
 
-Código Base De La Interfaz Del Proyecto Bank Modern App Hecha En React.js Y Tailwindcss En Fase De Desarrollo.
+Código base de la interfaz del banco HooBank Hecha En React.js Y Tailwind CSS.
 
 ---
 
 ## Vista En Versión Desktop
 
-![Vista_En_Versión_Desktop](src/assets/images/desktopScreen.png)
+![Vista_En_Versión_Desktop](src/assets/design/desktop-preview.jpg)
 
 ## Vista En Versión Mobile
 
-![Vista_En_Versión_Mobile](src/assets/images/mobileScreen.png)
+![Vista_En_Versión_Mobile](src/assets/design/mobile-design.jpg)
 
-## Enlace De La Página
+---
 
-[Bank Modern App](https://bank-modern-app-two.vercel.app/)
+## Enlace A La Aplicación
+
+[HooBank](https://bank-modern-app-two.vercel.app/)
+
+---
+
+## Hecho con
+
+- [React](https://react.dev/) - JS library
+- [Tailwind CSS](https://tailwindcss.com/) - For Styles
 
 ---
 
@@ -33,3 +42,9 @@ Código Base De La Interfaz Del Proyecto Bank Modern App Hecha En React.js Y Tai
 - autoprefixer
 - postcss
 - tailwindcss
+
+---
+
+## Autor
+
+- Website - [Axe10rellana](https://axe10rellana.github.io/portafolio/portafolio/)

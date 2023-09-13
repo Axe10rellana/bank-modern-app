@@ -1,7 +1,8 @@
 {
   "name": "bank-modern-app",
+  "description": "Código base de la interfaz del banco HooBank Hecha En React.js Y Tailwind CSS.",
   "private": true,
-  "version": "0.0.1",
+  "version": "1.0.0",
   "type": "module",
   "homepage": "./",
   "scripts": {
@@ -13,6 +14,8 @@
     "react",
     "tailwind"
   ],
+  "author": "Axe10rellana",
+  "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
