@@ -8,11 +8,11 @@ Código base de la interfaz del banco HooBank Hecha En React.js Y Tailwind CSS.
 
 ## Vista En Versión Desktop
 
-![Vista_En_Versión_Desktop](src/assets/design/desktop-preview.jpg)
+![Vista_En_Versión_Desktop](src/assets/design/desktopScreen.png)
 
 ## Vista En Versión Mobile
 
-![Vista_En_Versión_Mobile](src/assets/design/mobile-design.jpg)
+![Vista_En_Versión_Mobile](src/assets/design/mobileScreen.png)
 
 ---
 
